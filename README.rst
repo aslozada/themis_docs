@@ -27,5 +27,6 @@ Build the documentation by invoking
 Contributors
 ------------
 
+* Asdrubal Lozada-Blanco
 * Felippe Colombari
-* Asdrubal Lozada-Blanco  
+ 
